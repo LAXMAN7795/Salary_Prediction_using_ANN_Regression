@@ -1,0 +1,11 @@
+name: churnapp
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - streamlit
+      - tensorflow==2.19
+      - scikit-learn
+      - pandas
+      - numpy
+      - matplotlib
